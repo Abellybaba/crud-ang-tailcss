@@ -1,0 +1,84 @@
+{
+  "employees": [
+    {
+      "fullname": "Brad Gibson",
+      "salary": "20000",
+      "email": "bradGibson@gmail.com",
+      "website": "www.bradGboy.com",
+      "mobile": "9876546700",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "status": "employed",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "fullname": "Abel Felix",
+      "salary": "90000",
+      "email": "abel@gmail.com",
+      "website": "www.abelokoh.com",
+      "mobile": "9876546787",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "status": "employed"
+    },
+    {
+      "id": "3",
+      "fullname": "Nath Jojo",
+      "salary": "800000",
+      "email": "nath@gmail.com",
+      "website": "www.google.com",
+      "mobile": "6476546787",
+      "photo": "https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png",
+      "status": "employed"
+    },
+    {
+      "id": "4",
+      "fullname": "Abel Baba",
+      "salary": "800000",
+      "email": "ao@gmail.com",
+      "website": "www.abelokoh.com",
+      "mobile": "6471234567",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "status": "employed"
+    },
+    {
+      "id": "5",
+      "fullname": "Nath Baba",
+      "salary": "800000",
+      "email": "Nath@gmail.com",
+      "website": "www.abelokoh.com",
+      "mobile": "6474234567",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "status": "employed"
+    },
+    {
+      "id": "6",
+      "fullname": "Vbaba Abelly",
+      "salary": "800000",
+      "email": "vBaba@gmail.com",
+      "website": "www.abelokoh.com",
+      "mobile": "9875476787",
+      "photo": "https://png.pngtree.com/png-clipart/20190922/original/pngtree-business-male-user-avatar-vector-png-image_4774078.jpg",
+      "status": "employed"
+    },
+    {
+      "id": "7",
+      "fullname": "John Smith",
+      "salary": "90000",
+      "email": "Johnsmith@gmail.com",
+      "website": "www.JOhn.com",
+      "mobile": "9876546700",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "status": "employed"
+    },
+    {
+      "fullname": "Old Person",
+      "salary": "78900",
+      "email": "newperson@gmail.com",
+      "website": "www.new.com",
+      "mobile": 6573324583,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "status": "Employed",
+      "id": "LewINd8"
+    }
+  ]
+}
