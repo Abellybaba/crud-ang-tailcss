@@ -69,16 +69,6 @@
       "mobile": "9876546700",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
       "status": "employed"
-    },
-    {
-      "fullname": "Old Person",
-      "salary": "78900",
-      "email": "newperson@gmail.com",
-      "website": "www.new.com",
-      "mobile": 6573324583,
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
-      "status": "Employed",
-      "id": "LewINd8"
     }
   ]
 }

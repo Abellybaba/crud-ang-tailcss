@@ -7,7 +7,7 @@ import { catchError, map, Observable, throwError } from 'rxjs';
 })
 export class ApiService {
   //Define base url for server
-  private serverUrl: string = "http://localhost:3000"; //server url
+  private serverUrl: string = "https://my-json-server.typicode.com/abellybaba/json-api"; //server url
 
   constructor(private httpClient: HttpClient) { }
 
